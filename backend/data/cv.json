@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "name": "L.M.Hanggara Putra Akbar",
+    "role": "Mahasiswa Amikom University",
+    "tagline": "SOLID SOLID SOLID",
+    "location": "Lombok, Indonesia",
+    "email": "putraa.bar9@students.amikom.ac.id",
+    "phone": "+62 81330580037",
+    "website": "https://amarpratama.dev",
+    "photoText": "LAMUHPA",
+    "photo": "images/photo.jpeg",
+    "summary": "I want to building things that people can actually use, maybe."
+  },
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/agashesh"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/lalu-muhammad-hanggara-putra-akbar"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/lamuhpa"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Projects",
+      "value": "12+"
+    },
+    {
+      "label": "Experience",
+      "value": "6 Months"
+    },
+    {
+      "label": "Certificates",
+      "value": "2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML & CSS",
+      "level": 90
+    },
+    {
+      "name": "JavaScript",
+      "level": 50
+    },
+    {
+      "name": "React.js",
+      "level": 30
+    },
+    {
+      "name": "Node.js",
+      "level": 30
+    },
+    {
+      "name": "Express.js",
+      "level": 25
+    },
+    {
+      "name": "Database",
+      "level": 55
+    }
+  ],
+  "experiences": [
+    {
+      
+    },
+    {
+      
+    }
+  ],
+  "education": [
+    {
+      "degree": "S1 Informatika",
+      "school": "AMIKOM University",
+      "period": "2023 - Sekarang",
+      "description": "Fokus pada web programming, database, UI/UX, dan pengembangan aplikasi berbasis teknologi modern."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Smart Portfolio Website",
+      "description": "Website portfolio personal dengan React.js dan animasi CSS modern.",
+      "tech": ["React.js", "CSS", "Vite"]
+    },
+    {
+      "title": "REST API Product Management",
+      "description": "Backend CRUD produk menggunakan Node.js dan Express.js.",
+      "tech": ["Node.js", "Express.js", "JSON"]
+    },
+    {
+      "title": "AI Resume Helper",
+      "description": "Prototype aplikasi yang membantu membuat ringkasan CV menggunakan AI prompt.",
+      "tech": ["JavaScript", "AI Prompting", "Frontend"]
+    }
+  ]
+}
